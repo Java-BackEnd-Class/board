@@ -3,13 +3,10 @@
 
 ## 기능
 
-- 로그인 
+<img src="https://github.com/Java-BackEnd-Class/clone-coding-airBnB/blob/main/pic/airbnbmenu.png">
 
-- 회원가입
+숙소 검색기능
 
-- 게시글 (등록, 수정, 삭제)
-
-- 댓글 (등록, 수정, 삭제)
 
 ## 기술스택
 
